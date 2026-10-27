@@ -44,3 +44,15 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+- ## Definition of Ready
+- Requirements are documented and reviewed.
+- Acceptance criteria are defined.
+- Dependencies are identified.
+- Stakeholder approval is obtained.
+
+## Definition of Done
+- Development is completed.
+- Testing is passed.
+- Documentation is updated.
+- Stakeholder acceptance is received.
